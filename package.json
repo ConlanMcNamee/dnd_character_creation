@@ -1,0 +1,20 @@
+{
+  "name": "dnd_character_creation",
+  "version": "0.0.1",
+  "description": "App that allows you to create a barebones character for dnd, hopefully without infringing on copywritten material",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConlanMcNamee/dnd_character_creation.git"
+  },
+  "author": "Conlan McNamee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConlanMcNamee/dnd_character_creation/issues"
+  },
+  "homepage": "https://github.com/ConlanMcNamee/dnd_character_creation#readme"
+}
